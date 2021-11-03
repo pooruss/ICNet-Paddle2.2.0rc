@@ -1,0 +1,37 @@
+/opt/conda/envs/python35-paddle120-env/bin/python: can't open file '–selected_gpus=0': [Errno 2] No such file or directory
+2021-10-26 00:30:36,014 semantic_segmentation INFO: Using 1 GPUs
+2021-10-26 00:30:36,015 semantic_segmentation INFO: {'model': {'name': 'icnet', 'backbone': 'resnet50', 'base_size': 1024, 'crop_size': 960}, 'optimizer': {'init_lr': 0.01, 'momentum': 0.9, 'weight_decay': 0.0001}, 'train': {'specific_gpu_num': '1', 'train_batch_size': 1, 'valid_batch_size': 1, 'cityscapes_root': '/home/aistudio/data/data64550/cityscapes', 'epochs': 200, 'log_iter': 10, 'val_epoch': 1, 'ckpt_dir': './ckpt/'}, 'test': {'ckpt_path': './ckpt/icnet_resnet50_197_0.710_best_model.pdparams'}}
+Found 2975 images in the folder /home/aistudio/data/data64550/cityscapes/leftImg8bit/train
+Found 500 images in the folder /home/aistudio/data/data64550/cityscapes/leftImg8bit/val
+W1026 00:30:36.114706 23282 device_context.cc:404] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 10.1, Runtime API Version: 10.1
+W1026 00:30:36.118454 23282 device_context.cc:422] device: 0, cuDNN Version: 7.6.
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/distributed/parallel.py:120: UserWarning: Currently not a parallel execution environment, `paddle.distributed.init_parallel_env` will not do anything.
+  "Currently not a parallel execution environment, `paddle.distributed.init_parallel_env` will not do anything."
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/fluid/dygraph/parallel.py:515: UserWarning: The program will return to single-card operation. Please check 1, whether you use spawn or fleetrun to start the program. 2, Whether it is a multi-card program. 3, Is the current environment multi-card.
+  warnings.warn("The program will return to single-card operation. "
+Traceback (most recent call last):
+  File "train.py", line 230, in <module>
+    trainer.train()
+  File "train.py", line 87, in train
+    print(self.model.module)
+  File "/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/fluid/dygraph/layers.py", line 1050, in __getattr__
+    return object.__getattribute__(self, name)
+AttributeError: 'DataParallel' object has no attribute 'module'
+2021-10-26 00:36:09,813 semantic_segmentation INFO: Using 1 GPUs
+2021-10-26 00:36:09,813 semantic_segmentation INFO: {'model': {'name': 'icnet', 'backbone': 'resnet50', 'base_size': 1024, 'crop_size': 960}, 'optimizer': {'init_lr': 0.01, 'momentum': 0.9, 'weight_decay': 0.0001}, 'train': {'specific_gpu_num': '1', 'train_batch_size': 1, 'valid_batch_size': 1, 'cityscapes_root': '/home/aistudio/data/data64550/cityscapes', 'epochs': 200, 'log_iter': 10, 'val_epoch': 1, 'ckpt_dir': './ckpt/'}, 'test': {'ckpt_path': './ckpt/icnet_resnet50_197_0.710_best_model.pdparams'}}
+Found 2975 images in the folder /home/aistudio/data/data64550/cityscapes/leftImg8bit/train
+Found 500 images in the folder /home/aistudio/data/data64550/cityscapes/leftImg8bit/val
+W1026 00:36:09.904057 23851 device_context.cc:404] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 10.1, Runtime API Version: 10.1
+W1026 00:36:09.907721 23851 device_context.cc:422] device: 0, cuDNN Version: 7.6.
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/distributed/parallel.py:120: UserWarning: Currently not a parallel execution environment, `paddle.distributed.init_parallel_env` will not do anything.
+  "Currently not a parallel execution environment, `paddle.distributed.init_parallel_env` will not do anything."
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/fluid/dygraph/parallel.py:515: UserWarning: The program will return to single-card operation. Please check 1, whether you use spawn or fleetrun to start the program. 2, Whether it is a multi-card program. 3, Is the current environment multi-card.
+  warnings.warn("The program will return to single-card operation. "
+Traceback (most recent call last):
+  File "train.py", line 230, in <module>
+    trainer.train()
+  File "train.py", line 87, in train
+    print(self.model.sub_layer)
+  File "/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/fluid/dygraph/layers.py", line 1050, in __getattr__
+    return object.__getattribute__(self, name)
+AttributeError: 'DataParallel' object has no attribute 'sub_layer'

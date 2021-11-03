@@ -1,0 +1,1502 @@
+2021-11-02 08:58:07,137 semantic_segmentation INFO: Start validation, Total sample: 500
+2021-11-02 08:58:07,387 semantic_segmentation INFO: Sample: 1, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [95.48862457]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [34.87489319]), time: 0.0481414794921875s
+2021-11-02 08:58:09,360 semantic_segmentation INFO: Sample: 2, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.98136139]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [38.19073868]), time: 0.041532278060913086s
+2021-11-02 08:58:11,115 semantic_segmentation INFO: Sample: 3, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.66670990]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [40.52077866]), time: 0.04137063026428223s
+2021-11-02 08:58:12,759 semantic_segmentation INFO: Sample: 4, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [95.65050507]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [40.79817581]), time: 0.04154706001281738s
+2021-11-02 08:58:14,534 semantic_segmentation INFO: Sample: 5, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.91320038]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [46.23741913]), time: 0.041533708572387695s
+2021-11-02 08:58:16,497 semantic_segmentation INFO: Sample: 6, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [95.05843353]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [46.06464386]), time: 0.04169130325317383s
+2021-11-02 08:58:18,304 semantic_segmentation INFO: Sample: 7, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [95.20717621]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [52.66645432]), time: 0.041518449783325195s
+2021-11-02 08:58:20,147 semantic_segmentation INFO: Sample: 8, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.82900238]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [52.78374100]), time: 0.04229307174682617s
+2021-11-02 08:58:21,970 semantic_segmentation INFO: Sample: 9, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.66288757]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [56.38824081]), time: 0.04180264472961426s
+2021-11-02 08:58:23,924 semantic_segmentation INFO: Sample: 10, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.93864441]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [56.23117828]), time: 0.04175591468811035s
+2021-11-02 08:58:25,755 semantic_segmentation INFO: Sample: 11, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [95.04477692]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [56.28941727]), time: 0.04187822341918945s
+2021-11-02 08:58:27,606 semantic_segmentation INFO: Sample: 12, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [95.30643463]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [56.21378326]), time: 0.04137611389160156s
+2021-11-02 08:58:29,396 semantic_segmentation INFO: Sample: 13, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [95.40327454]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [57.75421906]), time: 0.04171895980834961s
+2021-11-02 08:58:31,084 semantic_segmentation INFO: Sample: 14, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [95.15876007]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [56.22552490]), time: 0.0417633056640625s
+2021-11-02 08:58:32,881 semantic_segmentation INFO: Sample: 15, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [95.24339294]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [56.21107864]), time: 0.041582584381103516s
+2021-11-02 08:58:34,558 semantic_segmentation INFO: Sample: 16, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [95.39147186]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [58.86820602]), time: 0.04188275337219238s
+2021-11-02 08:58:36,448 semantic_segmentation INFO: Sample: 17, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [95.37656403]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [58.78466415]), time: 0.041718244552612305s
+2021-11-02 08:58:38,106 semantic_segmentation INFO: Sample: 18, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [95.07848358]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [60.68447876]), time: 0.0415952205657959s
+2021-11-02 08:58:40,027 semantic_segmentation INFO: Sample: 19, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [95.03265381]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [61.91484833]), time: 0.041733503341674805s
+2021-11-02 08:58:41,978 semantic_segmentation INFO: Sample: 20, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [95.14588928]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [61.79128265]), time: 0.04170656204223633s
+2021-11-02 08:58:43,815 semantic_segmentation INFO: Sample: 21, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [95.19535828]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [62.32664108]), time: 0.04199552536010742s
+2021-11-02 08:58:45,809 semantic_segmentation INFO: Sample: 22, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.96974182]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [63.20373917]), time: 0.042238473892211914s
+2021-11-02 08:58:47,537 semantic_segmentation INFO: Sample: 23, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.96159363]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [63.16366959]), time: 0.04244375228881836s
+2021-11-02 08:58:49,399 semantic_segmentation INFO: Sample: 24, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.83897400]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [62.44935989]), time: 0.04194021224975586s
+2021-11-02 08:58:51,267 semantic_segmentation INFO: Sample: 25, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.55414581]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [62.30319595]), time: 0.04208707809448242s
+2021-11-02 08:58:53,139 semantic_segmentation INFO: Sample: 26, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.32999420]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [62.41473389]), time: 0.04185628890991211s
+2021-11-02 08:58:54,869 semantic_segmentation INFO: Sample: 27, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.37464142]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [63.01645660]), time: 0.04179978370666504s
+2021-11-02 08:58:56,712 semantic_segmentation INFO: Sample: 28, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.47180939]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [63.08876801]), time: 0.04249095916748047s
+2021-11-02 08:58:58,593 semantic_segmentation INFO: Sample: 29, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.41040039]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [62.76864243]), time: 0.0422213077545166s
+2021-11-02 08:59:00,437 semantic_segmentation INFO: Sample: 30, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.38534546]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.88192749]), time: 0.04200100898742676s
+2021-11-02 08:59:02,255 semantic_segmentation INFO: Sample: 31, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.48110199]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.92575073]), time: 0.04165315628051758s
+2021-11-02 08:59:03,937 semantic_segmentation INFO: Sample: 32, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.53976440]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.67776489]), time: 0.0421910285949707s
+2021-11-02 08:59:05,671 semantic_segmentation INFO: Sample: 33, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.45526123]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.28967285]), time: 0.04203939437866211s
+2021-11-02 08:59:07,481 semantic_segmentation INFO: Sample: 34, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.27723694]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [64.87166595]), time: 0.04187273979187012s
+2021-11-02 08:59:09,249 semantic_segmentation INFO: Sample: 35, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.29033661]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [64.99191284]), time: 0.04174304008483887s
+2021-11-02 08:59:10,791 semantic_segmentation INFO: Sample: 36, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.34051514]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [64.89820099]), time: 0.041786909103393555s
+2021-11-02 08:59:12,655 semantic_segmentation INFO: Sample: 37, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.22217560]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [64.51938629]), time: 0.041967153549194336s
+2021-11-02 08:59:14,501 semantic_segmentation INFO: Sample: 38, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.20136261]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.48689270]), time: 0.04196524620056152s
+2021-11-02 08:59:16,346 semantic_segmentation INFO: Sample: 39, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.24440002]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.46295929]), time: 0.04205513000488281s
+2021-11-02 08:59:18,236 semantic_segmentation INFO: Sample: 40, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12373352]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.58257294]), time: 0.04170370101928711s
+2021-11-02 08:59:20,256 semantic_segmentation INFO: Sample: 41, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.04331970]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [64.80110931]), time: 0.0421750545501709s
+2021-11-02 08:59:22,150 semantic_segmentation INFO: Sample: 42, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [93.87390900]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [64.50727844]), time: 0.0430908203125s
+2021-11-02 08:59:24,051 semantic_segmentation INFO: Sample: 43, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [93.93279266]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [64.59117126]), time: 0.04199695587158203s
+2021-11-02 08:59:26,032 semantic_segmentation INFO: Sample: 44, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.04756165]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [64.75114441]), time: 0.04286599159240723s
+2021-11-02 08:59:27,941 semantic_segmentation INFO: Sample: 45, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.07461548]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.01183319]), time: 0.04196643829345703s
+2021-11-02 08:59:29,700 semantic_segmentation INFO: Sample: 46, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12533569]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.02285004]), time: 0.04161787033081055s
+2021-11-02 08:59:31,504 semantic_segmentation INFO: Sample: 47, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.22009277]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.09593964]), time: 0.04204845428466797s
+2021-11-02 08:59:33,302 semantic_segmentation INFO: Sample: 48, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.27701569]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.10604858]), time: 0.04175305366516113s
+2021-11-02 08:59:35,136 semantic_segmentation INFO: Sample: 49, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.32995605]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [64.94439697]), time: 0.04187202453613281s
+2021-11-02 08:59:36,983 semantic_segmentation INFO: Sample: 50, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.34146118]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [64.94268799]), time: 0.04196786880493164s
+2021-11-02 08:59:38,654 semantic_segmentation INFO: Sample: 51, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.40660095]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [64.92934418]), time: 0.0418848991394043s
+2021-11-02 08:59:40,484 semantic_segmentation INFO: Sample: 52, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.42907715]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.46939087]), time: 0.04188179969787598s
+2021-11-02 08:59:42,271 semantic_segmentation INFO: Sample: 53, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.45587921]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.50653839]), time: 0.04194831848144531s
+2021-11-02 08:59:44,192 semantic_segmentation INFO: Sample: 54, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.47074890]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.53689575]), time: 0.042917728424072266s
+2021-11-02 08:59:45,965 semantic_segmentation INFO: Sample: 55, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.51431274]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.71528625]), time: 0.04269099235534668s
+2021-11-02 08:59:47,751 semantic_segmentation INFO: Sample: 56, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.56625366]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.69384766]), time: 0.04238581657409668s
+2021-11-02 08:59:49,549 semantic_segmentation INFO: Sample: 57, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.58158875]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.64041901]), time: 0.0420074462890625s
+2021-11-02 08:59:51,294 semantic_segmentation INFO: Sample: 58, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.60796356]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.89380646]), time: 0.041913509368896484s
+2021-11-02 08:59:53,136 semantic_segmentation INFO: Sample: 59, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.54600525]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.28989410]), time: 0.04161977767944336s
+2021-11-02 08:59:54,928 semantic_segmentation INFO: Sample: 60, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.55171967]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.05575562]), time: 0.041907548904418945s
+2021-11-02 08:59:56,651 semantic_segmentation INFO: Sample: 61, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.45948029]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.22166443]), time: 0.04194235801696777s
+2021-11-02 08:59:58,429 semantic_segmentation INFO: Sample: 62, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.47581482]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [65.34937286]), time: 0.042017221450805664s
+2021-11-02 09:00:00,170 semantic_segmentation INFO: Sample: 63, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.46858215]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [69.91339111]), time: 0.04198813438415527s
+2021-11-02 09:00:01,817 semantic_segmentation INFO: Sample: 64, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.42505646]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [69.84090424]), time: 0.04189777374267578s
+2021-11-02 09:00:03,445 semantic_segmentation INFO: Sample: 65, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.36048126]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [69.81392670]), time: 0.04218292236328125s
+2021-11-02 09:00:05,108 semantic_segmentation INFO: Sample: 66, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.38777924]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [69.74644470]), time: 0.04184079170227051s
+2021-11-02 09:00:06,857 semantic_segmentation INFO: Sample: 67, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.43621826]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [69.73007965]), time: 0.04196000099182129s
+2021-11-02 09:00:08,535 semantic_segmentation INFO: Sample: 68, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.41750336]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.80547333]), time: 0.04175305366516113s
+2021-11-02 09:00:10,233 semantic_segmentation INFO: Sample: 69, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.46573639]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.86792755]), time: 0.041877031326293945s
+2021-11-02 09:00:11,957 semantic_segmentation INFO: Sample: 70, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.51195526]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.86437988]), time: 0.041625261306762695s
+2021-11-02 09:00:13,684 semantic_segmentation INFO: Sample: 71, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.53776550]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.75445557]), time: 0.0419917106628418s
+2021-11-02 09:00:15,418 semantic_segmentation INFO: Sample: 72, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.52987671]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.72384644]), time: 0.04195427894592285s
+2021-11-02 09:00:17,060 semantic_segmentation INFO: Sample: 73, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.51807404]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.52397156]), time: 0.041944026947021484s
+2021-11-02 09:00:18,790 semantic_segmentation INFO: Sample: 74, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.48217010]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.68650055]), time: 0.04158902168273926s
+2021-11-02 09:00:20,530 semantic_segmentation INFO: Sample: 75, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.48135376]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.72338104]), time: 0.042038679122924805s
+2021-11-02 09:00:22,303 semantic_segmentation INFO: Sample: 76, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.50897217]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.06497955]), time: 0.0418553352355957s
+2021-11-02 09:00:23,914 semantic_segmentation INFO: Sample: 77, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.51300812]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.13995361]), time: 0.041933298110961914s
+2021-11-02 09:00:25,675 semantic_segmentation INFO: Sample: 78, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.52953339]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.70801544]), time: 0.042316436767578125s
+2021-11-02 09:00:27,389 semantic_segmentation INFO: Sample: 79, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.54530334]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.67787170]), time: 0.04307866096496582s
+2021-11-02 09:00:29,143 semantic_segmentation INFO: Sample: 80, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.52981567]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.19187927]), time: 0.042006492614746094s
+2021-11-02 09:00:30,964 semantic_segmentation INFO: Sample: 81, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.53618622]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.16919708]), time: 0.041753530502319336s
+2021-11-02 09:00:32,732 semantic_segmentation INFO: Sample: 82, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.49745178]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.97136688]), time: 0.041597843170166016s
+2021-11-02 09:00:34,459 semantic_segmentation INFO: Sample: 83, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.46654510]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.74847412]), time: 0.04198002815246582s
+2021-11-02 09:00:36,084 semantic_segmentation INFO: Sample: 84, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.49889374]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.72534180]), time: 0.04199028015136719s
+2021-11-02 09:00:37,866 semantic_segmentation INFO: Sample: 85, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.43619537]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.45730591]), time: 0.042028188705444336s
+2021-11-02 09:00:39,585 semantic_segmentation INFO: Sample: 86, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.42375183]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.45028687]), time: 0.04168057441711426s
+2021-11-02 09:00:41,295 semantic_segmentation INFO: Sample: 87, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.39668274]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.84715271]), time: 0.04209756851196289s
+2021-11-02 09:00:43,076 semantic_segmentation INFO: Sample: 88, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.39966583]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.72788239]), time: 0.041722774505615234s
+2021-11-02 09:00:44,835 semantic_segmentation INFO: Sample: 89, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.39371490]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.90145111]), time: 0.04184603691101074s
+2021-11-02 09:00:46,613 semantic_segmentation INFO: Sample: 90, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.41929626]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.97978210]), time: 0.041954994201660156s
+2021-11-02 09:00:48,344 semantic_segmentation INFO: Sample: 91, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.45137024]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.98149109]), time: 0.04168200492858887s
+2021-11-02 09:00:50,058 semantic_segmentation INFO: Sample: 92, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.42025757]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.89836884]), time: 0.04183697700500488s
+2021-11-02 09:00:51,810 semantic_segmentation INFO: Sample: 93, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.42976379]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.71234894]), time: 0.04173922538757324s
+2021-11-02 09:00:53,499 semantic_segmentation INFO: Sample: 94, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.43205261]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.65470886]), time: 0.041726112365722656s
+2021-11-02 09:00:55,128 semantic_segmentation INFO: Sample: 95, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.43434906]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.54723358]), time: 0.04198741912841797s
+2021-11-02 09:00:56,877 semantic_segmentation INFO: Sample: 96, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.42752838]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.51268005]), time: 0.04224991798400879s
+2021-11-02 09:00:58,664 semantic_segmentation INFO: Sample: 97, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.40063477]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.34203339]), time: 0.04182839393615723s
+2021-11-02 09:01:00,401 semantic_segmentation INFO: Sample: 98, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.42491150]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.33800507]), time: 0.04170417785644531s
+2021-11-02 09:01:02,069 semantic_segmentation INFO: Sample: 99, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.42570496]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.63245392]), time: 0.041761159896850586s
+2021-11-02 09:01:03,761 semantic_segmentation INFO: Sample: 100, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.42100525]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.58089447]), time: 0.04216122627258301s
+2021-11-02 09:01:05,448 semantic_segmentation INFO: Sample: 101, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.43386841]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.63658142]), time: 0.04210257530212402s
+2021-11-02 09:01:07,247 semantic_segmentation INFO: Sample: 102, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.42183685]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.63391876]), time: 0.04184389114379883s
+2021-11-02 09:01:08,904 semantic_segmentation INFO: Sample: 103, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.39603424]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.97511292]), time: 0.04184150695800781s
+2021-11-02 09:01:10,693 semantic_segmentation INFO: Sample: 104, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.41535950]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.81918335]), time: 0.04153299331665039s
+2021-11-02 09:01:12,454 semantic_segmentation INFO: Sample: 105, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.43208313]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.80710602]), time: 0.041800737380981445s
+2021-11-02 09:01:14,171 semantic_segmentation INFO: Sample: 106, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.41809845]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.29095459]), time: 0.041706085205078125s
+2021-11-02 09:01:15,861 semantic_segmentation INFO: Sample: 107, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.42201233]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.24077606]), time: 0.04193282127380371s
+2021-11-02 09:01:17,543 semantic_segmentation INFO: Sample: 108, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.44554901]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.41278076]), time: 0.042061567306518555s
+2021-11-02 09:01:19,169 semantic_segmentation INFO: Sample: 109, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.43611908]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.26522827]), time: 0.04193377494812012s
+2021-11-02 09:01:20,969 semantic_segmentation INFO: Sample: 110, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.44361115]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.36576843]), time: 0.04181671142578125s
+2021-11-02 09:01:22,741 semantic_segmentation INFO: Sample: 111, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.45474243]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.31857300]), time: 0.04202461242675781s
+2021-11-02 09:01:24,418 semantic_segmentation INFO: Sample: 112, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.46960449]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.28500366]), time: 0.04195070266723633s
+2021-11-02 09:01:26,134 semantic_segmentation INFO: Sample: 113, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.44077301]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.90174103]), time: 0.04194045066833496s
+2021-11-02 09:01:27,927 semantic_segmentation INFO: Sample: 114, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.44119263]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.77957153]), time: 0.04188370704650879s
+2021-11-02 09:01:29,556 semantic_segmentation INFO: Sample: 115, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.45207214]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.77356720]), time: 0.04210972785949707s
+2021-11-02 09:01:31,368 semantic_segmentation INFO: Sample: 116, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.46147919]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.85933685]), time: 0.041768789291381836s
+2021-11-02 09:01:33,135 semantic_segmentation INFO: Sample: 117, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.47890472]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.85704041]), time: 0.042112112045288086s
+2021-11-02 09:01:34,911 semantic_segmentation INFO: Sample: 118, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.47913361]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.00486755]), time: 0.041863441467285156s
+2021-11-02 09:01:36,705 semantic_segmentation INFO: Sample: 119, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.49817657]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.14797974]), time: 0.0418705940246582s
+2021-11-02 09:01:38,349 semantic_segmentation INFO: Sample: 120, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.52762604]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.13837433]), time: 0.04191231727600098s
+2021-11-02 09:01:39,968 semantic_segmentation INFO: Sample: 121, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.51966858]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.98155212]), time: 0.041794776916503906s
+2021-11-02 09:01:41,732 semantic_segmentation INFO: Sample: 122, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.53260040]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.91790771]), time: 0.041747093200683594s
+2021-11-02 09:01:43,508 semantic_segmentation INFO: Sample: 123, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.52525330]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.87577820]), time: 0.04186272621154785s
+2021-11-02 09:01:45,272 semantic_segmentation INFO: Sample: 124, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.49121094]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.99161530]), time: 0.042340755462646484s
+2021-11-02 09:01:46,947 semantic_segmentation INFO: Sample: 125, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.50415802]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.09838867]), time: 0.04212450981140137s
+2021-11-02 09:01:48,755 semantic_segmentation INFO: Sample: 126, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.52412415]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.01969147]), time: 0.041870832443237305s
+2021-11-02 09:01:50,469 semantic_segmentation INFO: Sample: 127, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.53238678]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.98193359]), time: 0.041629791259765625s
+2021-11-02 09:01:52,184 semantic_segmentation INFO: Sample: 128, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.50237274]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.09185028]), time: 0.0431208610534668s
+2021-11-02 09:01:53,913 semantic_segmentation INFO: Sample: 129, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.51815033]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.19527435]), time: 0.04187726974487305s
+2021-11-02 09:01:55,709 semantic_segmentation INFO: Sample: 130, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.52928162]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.17852020]), time: 0.04190254211425781s
+2021-11-02 09:01:57,503 semantic_segmentation INFO: Sample: 131, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.51777649]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.18206024]), time: 0.041786909103393555s
+2021-11-02 09:01:59,054 semantic_segmentation INFO: Sample: 132, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.52117157]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [73.18627930]), time: 0.04223752021789551s
+2021-11-02 09:02:00,649 semantic_segmentation INFO: Sample: 133, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.45033264]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.80265045]), time: 0.0418703556060791s
+2021-11-02 09:02:02,436 semantic_segmentation INFO: Sample: 134, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.46293640]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.73955536]), time: 0.041558265686035156s
+2021-11-02 09:02:04,151 semantic_segmentation INFO: Sample: 135, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.47629547]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.79640198]), time: 0.04201531410217285s
+2021-11-02 09:02:05,744 semantic_segmentation INFO: Sample: 136, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.47761536]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.81881714]), time: 0.041820526123046875s
+2021-11-02 09:02:07,384 semantic_segmentation INFO: Sample: 137, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.45307159]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.73345184]), time: 0.042035579681396484s
+2021-11-02 09:02:09,064 semantic_segmentation INFO: Sample: 138, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.47094727]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.83805847]), time: 0.04182314872741699s
+2021-11-02 09:02:10,816 semantic_segmentation INFO: Sample: 139, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.47069550]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.78936005]), time: 0.0418543815612793s
+2021-11-02 09:02:12,528 semantic_segmentation INFO: Sample: 140, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.43248749]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.79295349]), time: 0.041872262954711914s
+2021-11-02 09:02:14,281 semantic_segmentation INFO: Sample: 141, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.43357849]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.72312927]), time: 0.04193615913391113s
+2021-11-02 09:02:16,105 semantic_segmentation INFO: Sample: 142, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.44376373]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.78732300]), time: 0.041959524154663086s
+2021-11-02 09:02:17,833 semantic_segmentation INFO: Sample: 143, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.43388367]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.72254944]), time: 0.04193115234375s
+2021-11-02 09:02:19,466 semantic_segmentation INFO: Sample: 144, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.43707275]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.82232666]), time: 0.04162001609802246s
+2021-11-02 09:02:21,247 semantic_segmentation INFO: Sample: 145, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.42540741]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.85704041]), time: 0.04170584678649902s
+2021-11-02 09:02:23,025 semantic_segmentation INFO: Sample: 146, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.43247986]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.84578705]), time: 0.04217839241027832s
+2021-11-02 09:02:24,610 semantic_segmentation INFO: Sample: 147, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.42870331]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.93803406]), time: 0.042078495025634766s
+2021-11-02 09:02:26,320 semantic_segmentation INFO: Sample: 148, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.39939880]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.85686493]), time: 0.041843414306640625s
+2021-11-02 09:02:28,055 semantic_segmentation INFO: Sample: 149, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.38726044]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.77198792]), time: 0.04257917404174805s
+2021-11-02 09:02:29,697 semantic_segmentation INFO: Sample: 150, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.36624908]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.66049194]), time: 0.04191017150878906s
+2021-11-02 09:02:31,393 semantic_segmentation INFO: Sample: 151, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.38377380]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.67192841]), time: 0.041645050048828125s
+2021-11-02 09:02:33,055 semantic_segmentation INFO: Sample: 152, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.37883759]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.66725922]), time: 0.041779279708862305s
+2021-11-02 09:02:34,810 semantic_segmentation INFO: Sample: 153, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.37686157]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.69519806]), time: 0.04160428047180176s
+2021-11-02 09:02:36,511 semantic_segmentation INFO: Sample: 154, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.33622742]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.67851257]), time: 0.0418245792388916s
+2021-11-02 09:02:38,231 semantic_segmentation INFO: Sample: 155, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.35445404]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.67599487]), time: 0.04185795783996582s
+2021-11-02 09:02:39,997 semantic_segmentation INFO: Sample: 156, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.35459900]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.77416229]), time: 0.04181218147277832s
+2021-11-02 09:02:41,786 semantic_segmentation INFO: Sample: 157, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.28800964]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.69844818]), time: 0.041643381118774414s
+2021-11-02 09:02:43,535 semantic_segmentation INFO: Sample: 158, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.30377197]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.74205780]), time: 0.041648149490356445s
+2021-11-02 09:02:45,317 semantic_segmentation INFO: Sample: 159, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.29177094]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.62537384]), time: 0.04204249382019043s
+2021-11-02 09:02:47,081 semantic_segmentation INFO: Sample: 160, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.23355865]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.07241058]), time: 0.04201507568359375s
+2021-11-02 09:02:48,876 semantic_segmentation INFO: Sample: 161, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.22822571]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.99805450]), time: 0.04191708564758301s
+2021-11-02 09:02:50,613 semantic_segmentation INFO: Sample: 162, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.20710754]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.02412415]), time: 0.04160356521606445s
+2021-11-02 09:02:52,366 semantic_segmentation INFO: Sample: 163, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.22389984]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.08185577]), time: 0.04183673858642578s
+2021-11-02 09:02:54,168 semantic_segmentation INFO: Sample: 164, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.23497009]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.09786224]), time: 0.04212689399719238s
+2021-11-02 09:02:55,907 semantic_segmentation INFO: Sample: 165, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.24453735]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.09823608]), time: 0.04170083999633789s
+2021-11-02 09:02:57,592 semantic_segmentation INFO: Sample: 166, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.24314117]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [72.03480530]), time: 0.04207324981689453s
+2021-11-02 09:02:59,314 semantic_segmentation INFO: Sample: 167, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.25613403]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.96862030]), time: 0.041948556900024414s
+2021-11-02 09:03:01,104 semantic_segmentation INFO: Sample: 168, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.23074341]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.85314178]), time: 0.04202461242675781s
+2021-11-02 09:03:02,674 semantic_segmentation INFO: Sample: 169, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.21562195]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.84004974]), time: 0.04167342185974121s
+2021-11-02 09:03:04,403 semantic_segmentation INFO: Sample: 170, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.20489502]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.79852295]), time: 0.04180097579956055s
+2021-11-02 09:03:06,092 semantic_segmentation INFO: Sample: 171, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.22000885]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.83205414]), time: 0.041713714599609375s
+2021-11-02 09:03:07,665 semantic_segmentation INFO: Sample: 172, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.22033691]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.67899323]), time: 0.04165005683898926s
+2021-11-02 09:03:09,429 semantic_segmentation INFO: Sample: 173, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.21759796]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.69773865]), time: 0.041886329650878906s
+2021-11-02 09:03:11,180 semantic_segmentation INFO: Sample: 174, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.22831726]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.66101074]), time: 0.0418701171875s
+2021-11-02 09:03:12,805 semantic_segmentation INFO: Sample: 175, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.23566437]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.66847229]), time: 0.04193449020385742s
+2021-11-02 09:03:14,510 semantic_segmentation INFO: Sample: 176, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.17453003]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.53125763]), time: 0.04196047782897949s
+2021-11-02 09:03:16,156 semantic_segmentation INFO: Sample: 177, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.16030121]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.51327515]), time: 0.04192495346069336s
+2021-11-02 09:03:17,883 semantic_segmentation INFO: Sample: 178, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.17150879]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.51735687]), time: 0.04172921180725098s
+2021-11-02 09:03:19,613 semantic_segmentation INFO: Sample: 179, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.17889404]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.54875183]), time: 0.04169774055480957s
+2021-11-02 09:03:21,300 semantic_segmentation INFO: Sample: 180, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.19314575]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.52764893]), time: 0.04190397262573242s
+2021-11-02 09:03:23,080 semantic_segmentation INFO: Sample: 181, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.18229675]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.55979919]), time: 0.0419154167175293s
+2021-11-02 09:03:24,850 semantic_segmentation INFO: Sample: 182, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.18169403]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.58501434]), time: 0.04183793067932129s
+2021-11-02 09:03:26,566 semantic_segmentation INFO: Sample: 183, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.16168213]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.87094879]), time: 0.04208827018737793s
+2021-11-02 09:03:28,336 semantic_segmentation INFO: Sample: 184, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.08086395]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.71942139]), time: 0.0417172908782959s
+2021-11-02 09:03:30,069 semantic_segmentation INFO: Sample: 185, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.08048248]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.75571442]), time: 0.04198813438415527s
+2021-11-02 09:03:31,692 semantic_segmentation INFO: Sample: 186, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.07450867]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.71642303]), time: 0.041692495346069336s
+2021-11-02 09:03:33,415 semantic_segmentation INFO: Sample: 187, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.09180450]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.71971893]), time: 0.04186081886291504s
+2021-11-02 09:03:35,125 semantic_segmentation INFO: Sample: 188, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.10605621]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.72261047]), time: 0.04189872741699219s
+2021-11-02 09:03:36,739 semantic_segmentation INFO: Sample: 189, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.11190033]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.72654724]), time: 0.04190778732299805s
+2021-11-02 09:03:38,482 semantic_segmentation INFO: Sample: 190, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12467194]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.74262238]), time: 0.041884422302246094s
+2021-11-02 09:03:40,202 semantic_segmentation INFO: Sample: 191, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.10890961]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.65779114]), time: 0.041657447814941406s
+2021-11-02 09:03:41,983 semantic_segmentation INFO: Sample: 192, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.11706543]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.61912537]), time: 0.04178953170776367s
+2021-11-02 09:03:43,720 semantic_segmentation INFO: Sample: 193, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12647247]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.68074036]), time: 0.041787147521972656s
+2021-11-02 09:03:45,430 semantic_segmentation INFO: Sample: 194, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.11603546]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.73427582]), time: 0.04230809211730957s
+2021-11-02 09:03:47,183 semantic_segmentation INFO: Sample: 195, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12812805]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.74658203]), time: 0.042119741439819336s
+2021-11-02 09:03:48,881 semantic_segmentation INFO: Sample: 196, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.13574219]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.74956512]), time: 0.04194140434265137s
+2021-11-02 09:03:50,526 semantic_segmentation INFO: Sample: 197, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12453461]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.71247864]), time: 0.04190373420715332s
+2021-11-02 09:03:52,288 semantic_segmentation INFO: Sample: 198, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.11531830]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.77631378]), time: 0.04225444793701172s
+2021-11-02 09:03:53,878 semantic_segmentation INFO: Sample: 199, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.11808014]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.82547760]), time: 0.04220867156982422s
+2021-11-02 09:03:55,541 semantic_segmentation INFO: Sample: 200, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.11886597]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.82523346]), time: 0.041562795639038086s
+2021-11-02 09:03:57,198 semantic_segmentation INFO: Sample: 201, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12189484]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.82174683]), time: 0.04226803779602051s
+2021-11-02 09:03:58,867 semantic_segmentation INFO: Sample: 202, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.13501740]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.85659790]), time: 0.04212474822998047s
+2021-11-02 09:04:00,522 semantic_segmentation INFO: Sample: 203, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.14627838]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.92479706]), time: 0.04186367988586426s
+2021-11-02 09:04:02,288 semantic_segmentation INFO: Sample: 204, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.16273499]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.93537903]), time: 0.04179239273071289s
+2021-11-02 09:04:04,023 semantic_segmentation INFO: Sample: 205, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.17974854]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.92585754]), time: 0.04217362403869629s
+2021-11-02 09:04:05,738 semantic_segmentation INFO: Sample: 206, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.17262268]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.96197510]), time: 0.04191112518310547s
+2021-11-02 09:04:07,519 semantic_segmentation INFO: Sample: 207, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.18238068]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.96057892]), time: 0.041918039321899414s
+2021-11-02 09:04:09,272 semantic_segmentation INFO: Sample: 208, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.14099884]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.00724792]), time: 0.04216623306274414s
+2021-11-02 09:04:11,022 semantic_segmentation INFO: Sample: 209, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12091064]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.99842072]), time: 0.04181814193725586s
+2021-11-02 09:04:12,827 semantic_segmentation INFO: Sample: 210, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.08522797]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.95373535]), time: 0.041663169860839844s
+2021-11-02 09:04:14,610 semantic_segmentation INFO: Sample: 211, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.09870148]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.94809723]), time: 0.042284488677978516s
+2021-11-02 09:04:16,384 semantic_segmentation INFO: Sample: 212, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.11478424]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.96128845]), time: 0.04192304611206055s
+2021-11-02 09:04:18,081 semantic_segmentation INFO: Sample: 213, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.11830902]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.95095825]), time: 0.0422062873840332s
+2021-11-02 09:04:19,737 semantic_segmentation INFO: Sample: 214, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.11727142]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.95845032]), time: 0.041631460189819336s
+2021-11-02 09:04:21,408 semantic_segmentation INFO: Sample: 215, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.11282349]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.93705750]), time: 0.041680097579956055s
+2021-11-02 09:04:23,166 semantic_segmentation INFO: Sample: 216, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.11724854]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.13350677]), time: 0.04174017906188965s
+2021-11-02 09:04:24,819 semantic_segmentation INFO: Sample: 217, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.10734558]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.10045624]), time: 0.04209709167480469s
+2021-11-02 09:04:26,403 semantic_segmentation INFO: Sample: 218, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.11368561]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.10328674]), time: 0.04206275939941406s
+2021-11-02 09:04:28,110 semantic_segmentation INFO: Sample: 219, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12923431]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.12496185]), time: 0.04166603088378906s
+2021-11-02 09:04:29,724 semantic_segmentation INFO: Sample: 220, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.13816071]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.11440277]), time: 0.041858673095703125s
+2021-11-02 09:04:31,493 semantic_segmentation INFO: Sample: 221, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.14809418]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.15998077]), time: 0.04223179817199707s
+2021-11-02 09:04:33,203 semantic_segmentation INFO: Sample: 222, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.14624023]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.34053802]), time: 0.04181241989135742s
+2021-11-02 09:04:34,854 semantic_segmentation INFO: Sample: 223, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.14161682]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.31525421]), time: 0.04225611686706543s
+2021-11-02 09:04:36,653 semantic_segmentation INFO: Sample: 224, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.14212799]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.28902435]), time: 0.04195356369018555s
+2021-11-02 09:04:38,403 semantic_segmentation INFO: Sample: 225, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.07175446]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.65805054]), time: 0.04173541069030762s
+2021-11-02 09:04:40,061 semantic_segmentation INFO: Sample: 226, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.07519531]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.66297150]), time: 0.0417943000793457s
+2021-11-02 09:04:41,796 semantic_segmentation INFO: Sample: 227, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.06899261]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.69022369]), time: 0.04172778129577637s
+2021-11-02 09:04:43,523 semantic_segmentation INFO: Sample: 228, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.07269287]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.70406342]), time: 0.04166841506958008s
+2021-11-02 09:04:45,218 semantic_segmentation INFO: Sample: 229, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.08584595]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.69712067]), time: 0.04211735725402832s
+2021-11-02 09:04:46,890 semantic_segmentation INFO: Sample: 230, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.09300232]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.68737793]), time: 0.042070627212524414s
+2021-11-02 09:04:48,537 semantic_segmentation INFO: Sample: 231, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.09415436]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.64942169]), time: 0.04167652130126953s
+2021-11-02 09:04:50,355 semantic_segmentation INFO: Sample: 232, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.07824707]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.59657288]), time: 0.041745901107788086s
+2021-11-02 09:04:52,158 semantic_segmentation INFO: Sample: 233, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.07974243]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.81584167]), time: 0.04277396202087402s
+2021-11-02 09:04:53,943 semantic_segmentation INFO: Sample: 234, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.08030701]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.83905029]), time: 0.04172396659851074s
+2021-11-02 09:04:55,709 semantic_segmentation INFO: Sample: 235, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.07452393]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.81256866]), time: 0.04199361801147461s
+2021-11-02 09:04:57,498 semantic_segmentation INFO: Sample: 236, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.07904816]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.77639771]), time: 0.04205727577209473s
+2021-11-02 09:04:59,242 semantic_segmentation INFO: Sample: 237, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.08028412]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.77423096]), time: 0.04178738594055176s
+2021-11-02 09:05:00,941 semantic_segmentation INFO: Sample: 238, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.06739044]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.65818787]), time: 0.04215049743652344s
+2021-11-02 09:05:02,564 semantic_segmentation INFO: Sample: 239, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.07337189]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.63319397]), time: 0.041921377182006836s
+2021-11-02 09:05:04,350 semantic_segmentation INFO: Sample: 240, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.07090759]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.59610748]), time: 0.042395591735839844s
+2021-11-02 09:05:06,115 semantic_segmentation INFO: Sample: 241, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.06914520]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.78018188]), time: 0.04177117347717285s
+2021-11-02 09:05:07,712 semantic_segmentation INFO: Sample: 242, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.06959534]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.70794678]), time: 0.04179120063781738s
+2021-11-02 09:05:09,470 semantic_segmentation INFO: Sample: 243, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.07081604]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.70940399]), time: 0.041701555252075195s
+2021-11-02 09:05:11,228 semantic_segmentation INFO: Sample: 244, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.06495667]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.68381500]), time: 0.041831016540527344s
+2021-11-02 09:05:12,959 semantic_segmentation INFO: Sample: 245, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.07225037]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.68240356]), time: 0.04178810119628906s
+2021-11-02 09:05:14,659 semantic_segmentation INFO: Sample: 246, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.08108521]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.71542358]), time: 0.04188203811645508s
+2021-11-02 09:05:16,448 semantic_segmentation INFO: Sample: 247, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.09652710]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.71150208]), time: 0.04192614555358887s
+2021-11-02 09:05:18,165 semantic_segmentation INFO: Sample: 248, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.10337830]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.70572662]), time: 0.04159951210021973s
+2021-11-02 09:05:19,851 semantic_segmentation INFO: Sample: 249, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.09878540]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.70594788]), time: 0.041473388671875s
+2021-11-02 09:05:21,481 semantic_segmentation INFO: Sample: 250, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.09083557]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.61347961]), time: 0.04187130928039551s
+2021-11-02 09:05:23,257 semantic_segmentation INFO: Sample: 251, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.09833527]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.60638428]), time: 0.04192852973937988s
+2021-11-02 09:05:25,050 semantic_segmentation INFO: Sample: 252, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.10069275]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.60575104]), time: 0.04173874855041504s
+2021-11-02 09:05:26,784 semantic_segmentation INFO: Sample: 253, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.10710907]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.68533325]), time: 0.04211592674255371s
+2021-11-02 09:05:28,457 semantic_segmentation INFO: Sample: 254, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.11415100]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.74526978]), time: 0.04238700866699219s
+2021-11-02 09:05:30,141 semantic_segmentation INFO: Sample: 255, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12181091]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.73013306]), time: 0.04197335243225098s
+2021-11-02 09:05:31,790 semantic_segmentation INFO: Sample: 256, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.13189697]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.75913239]), time: 0.041811466217041016s
+2021-11-02 09:05:33,558 semantic_segmentation INFO: Sample: 257, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.11486816]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.74436188]), time: 0.041863441467285156s
+2021-11-02 09:05:35,163 semantic_segmentation INFO: Sample: 258, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12207031]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.74877167]), time: 0.04205131530761719s
+2021-11-02 09:05:36,884 semantic_segmentation INFO: Sample: 259, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12796783]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.70461273]), time: 0.04186582565307617s
+2021-11-02 09:05:38,629 semantic_segmentation INFO: Sample: 260, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12018585]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.71032715]), time: 0.04171466827392578s
+2021-11-02 09:05:40,422 semantic_segmentation INFO: Sample: 261, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.11931610]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.69261169]), time: 0.04171919822692871s
+2021-11-02 09:05:42,063 semantic_segmentation INFO: Sample: 262, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12859344]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.68354797]), time: 0.04166817665100098s
+2021-11-02 09:05:43,852 semantic_segmentation INFO: Sample: 263, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.13710022]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.72316742]), time: 0.04188847541809082s
+2021-11-02 09:05:45,648 semantic_segmentation INFO: Sample: 264, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.13992310]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.82158661]), time: 0.04191446304321289s
+2021-11-02 09:05:47,416 semantic_segmentation INFO: Sample: 265, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.14193726]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.82526398]), time: 0.04202556610107422s
+2021-11-02 09:05:49,186 semantic_segmentation INFO: Sample: 266, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.14672089]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.86852264]), time: 0.04304194450378418s
+2021-11-02 09:05:50,847 semantic_segmentation INFO: Sample: 267, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.14900208]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.86193085]), time: 0.04176664352416992s
+2021-11-02 09:05:52,619 semantic_segmentation INFO: Sample: 268, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.15013885]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.83284760]), time: 0.04172229766845703s
+2021-11-02 09:05:54,350 semantic_segmentation INFO: Sample: 269, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.15050507]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.87044525]), time: 0.04202079772949219s
+2021-11-02 09:05:56,081 semantic_segmentation INFO: Sample: 270, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.14781952]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.85507965]), time: 0.04173159599304199s
+2021-11-02 09:05:57,845 semantic_segmentation INFO: Sample: 271, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.14809418]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.85981750]), time: 0.041959524154663086s
+2021-11-02 09:05:59,537 semantic_segmentation INFO: Sample: 272, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.14582062]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.84232330]), time: 0.04209637641906738s
+2021-11-02 09:06:01,237 semantic_segmentation INFO: Sample: 273, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.14498138]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.87386322]), time: 0.04191851615905762s
+2021-11-02 09:06:02,853 semantic_segmentation INFO: Sample: 274, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12742615]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.87022400]), time: 0.04205322265625s
+2021-11-02 09:06:04,523 semantic_segmentation INFO: Sample: 275, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12783051]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.77207947]), time: 0.04183363914489746s
+2021-11-02 09:06:06,234 semantic_segmentation INFO: Sample: 276, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12876129]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.73040009]), time: 0.04185748100280762s
+2021-11-02 09:06:07,937 semantic_segmentation INFO: Sample: 277, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12904358]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.72084045]), time: 0.041828155517578125s
+2021-11-02 09:06:09,674 semantic_segmentation INFO: Sample: 278, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.13291168]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.69875336]), time: 0.04174065589904785s
+2021-11-02 09:06:11,424 semantic_segmentation INFO: Sample: 279, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12226868]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.77140808]), time: 0.04179501533508301s
+2021-11-02 09:06:13,171 semantic_segmentation INFO: Sample: 280, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.11777496]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.70463562]), time: 0.04169297218322754s
+2021-11-02 09:06:14,940 semantic_segmentation INFO: Sample: 281, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12567902]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.70224762]), time: 0.04210472106933594s
+2021-11-02 09:06:16,650 semantic_segmentation INFO: Sample: 282, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.11120605]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.43669891]), time: 0.04208517074584961s
+2021-11-02 09:06:18,103 semantic_segmentation INFO: Sample: 283, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.10861969]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.46121216]), time: 0.04173445701599121s
+2021-11-02 09:06:19,801 semantic_segmentation INFO: Sample: 284, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.11749268]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.43743134]), time: 0.04166126251220703s
+2021-11-02 09:06:21,548 semantic_segmentation INFO: Sample: 285, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12636566]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.48139954]), time: 0.0417943000793457s
+2021-11-02 09:06:23,286 semantic_segmentation INFO: Sample: 286, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.11492920]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.45395660]), time: 0.04182100296020508s
+2021-11-02 09:06:24,889 semantic_segmentation INFO: Sample: 287, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12567902]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.45734406]), time: 0.041829586029052734s
+2021-11-02 09:06:26,565 semantic_segmentation INFO: Sample: 288, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.12777710]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.50444794]), time: 0.04176473617553711s
+2021-11-02 09:06:28,278 semantic_segmentation INFO: Sample: 289, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.13703918]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.49468231]), time: 0.04194808006286621s
+2021-11-02 09:06:30,069 semantic_segmentation INFO: Sample: 290, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.15017700]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.50000000]), time: 0.04210543632507324s
+2021-11-02 09:06:31,810 semantic_segmentation INFO: Sample: 291, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.15287018]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.49395752]), time: 0.041905879974365234s
+2021-11-02 09:06:33,446 semantic_segmentation INFO: Sample: 292, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.15004730]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.49240112]), time: 0.041858673095703125s
+2021-11-02 09:06:35,102 semantic_segmentation INFO: Sample: 293, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.15093994]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.48421478]), time: 0.04182124137878418s
+2021-11-02 09:06:36,792 semantic_segmentation INFO: Sample: 294, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.15451050]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.47879791]), time: 0.0419614315032959s
+2021-11-02 09:06:38,525 semantic_segmentation INFO: Sample: 295, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.15363312]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.48012543]), time: 0.04239010810852051s
+2021-11-02 09:06:40,175 semantic_segmentation INFO: Sample: 296, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.16341400]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.47477722]), time: 0.04184222221374512s
+2021-11-02 09:06:41,848 semantic_segmentation INFO: Sample: 297, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.15061188]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.42805481]), time: 0.04169464111328125s
+2021-11-02 09:06:43,513 semantic_segmentation INFO: Sample: 298, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.14163971]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.41224670]), time: 0.042073726654052734s
+2021-11-02 09:06:45,223 semantic_segmentation INFO: Sample: 299, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.14210510]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.50213623]), time: 0.042112112045288086s
+2021-11-02 09:06:46,981 semantic_segmentation INFO: Sample: 300, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.14929962]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.50755310]), time: 0.04214358329772949s
+2021-11-02 09:06:48,745 semantic_segmentation INFO: Sample: 301, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.14717102]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.49765778]), time: 0.04203295707702637s
+2021-11-02 09:06:50,393 semantic_segmentation INFO: Sample: 302, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.13748932]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.42553711]), time: 0.041803598403930664s
+2021-11-02 09:06:52,063 semantic_segmentation INFO: Sample: 303, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.14208221]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.49139404]), time: 0.041846513748168945s
+2021-11-02 09:06:53,770 semantic_segmentation INFO: Sample: 304, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.14363861]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.49337006]), time: 0.04187726974487305s
+2021-11-02 09:06:55,426 semantic_segmentation INFO: Sample: 305, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.14401245]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.51773071]), time: 0.041760921478271484s
+2021-11-02 09:06:57,170 semantic_segmentation INFO: Sample: 306, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.14834595]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.49756622]), time: 0.04267168045043945s
+2021-11-02 09:06:58,884 semantic_segmentation INFO: Sample: 307, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.15031433]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.52583313]), time: 0.045581817626953125s
+2021-11-02 09:07:00,673 semantic_segmentation INFO: Sample: 308, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.16037750]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.50011444]), time: 0.041893720626831055s
+2021-11-02 09:07:02,271 semantic_segmentation INFO: Sample: 309, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.16810608]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.47738647]), time: 0.04188084602355957s
+2021-11-02 09:07:03,792 semantic_segmentation INFO: Sample: 310, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.17917633]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.47550201]), time: 0.04210543632507324s
+2021-11-02 09:07:05,410 semantic_segmentation INFO: Sample: 311, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.17575836]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.44597626]), time: 0.04180598258972168s
+2021-11-02 09:07:07,092 semantic_segmentation INFO: Sample: 312, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.17931366]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.43693542]), time: 0.04208064079284668s
+2021-11-02 09:07:08,842 semantic_segmentation INFO: Sample: 313, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.17886353]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.42392731]), time: 0.04198956489562988s
+2021-11-02 09:07:10,526 semantic_segmentation INFO: Sample: 314, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.18833923]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.42175293]), time: 0.04186105728149414s
+2021-11-02 09:07:12,203 semantic_segmentation INFO: Sample: 315, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.18731689]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.37921906]), time: 0.041803598403930664s
+2021-11-02 09:07:13,943 semantic_segmentation INFO: Sample: 316, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.19689178]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.37188721]), time: 0.042133331298828125s
+2021-11-02 09:07:15,737 semantic_segmentation INFO: Sample: 317, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.20172882]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.37078857]), time: 0.04164600372314453s
+2021-11-02 09:07:17,494 semantic_segmentation INFO: Sample: 318, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.19646454]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.37625885]), time: 0.04191231727600098s
+2021-11-02 09:07:19,165 semantic_segmentation INFO: Sample: 319, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.18470001]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.34570312]), time: 0.0421595573425293s
+2021-11-02 09:07:20,920 semantic_segmentation INFO: Sample: 320, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.19068909]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.38752747]), time: 0.042016029357910156s
+2021-11-02 09:07:22,644 semantic_segmentation INFO: Sample: 321, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.19744110]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.39137268]), time: 0.04173898696899414s
+2021-11-02 09:07:24,412 semantic_segmentation INFO: Sample: 322, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.20170593]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.38776398]), time: 0.042557716369628906s
+2021-11-02 09:07:26,012 semantic_segmentation INFO: Sample: 323, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.20858002]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.37505341]), time: 0.042386770248413086s
+2021-11-02 09:07:27,606 semantic_segmentation INFO: Sample: 324, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.21424866]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.34701538]), time: 0.04183363914489746s
+2021-11-02 09:07:29,196 semantic_segmentation INFO: Sample: 325, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.22328949]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.35951233]), time: 0.042112112045288086s
+2021-11-02 09:07:30,916 semantic_segmentation INFO: Sample: 326, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.22498322]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.35699463]), time: 0.041716814041137695s
+2021-11-02 09:07:32,722 semantic_segmentation INFO: Sample: 327, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.23951721]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.36734009]), time: 0.04167485237121582s
+2021-11-02 09:07:34,523 semantic_segmentation INFO: Sample: 328, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.24589539]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.37301636]), time: 0.041712045669555664s
+2021-11-02 09:07:36,305 semantic_segmentation INFO: Sample: 329, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.25624847]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.37282562]), time: 0.04181361198425293s
+2021-11-02 09:07:38,094 semantic_segmentation INFO: Sample: 330, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.26142120]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.37120056]), time: 0.041631221771240234s
+2021-11-02 09:07:39,722 semantic_segmentation INFO: Sample: 331, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.27537537]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.37349701]), time: 0.04214596748352051s
+2021-11-02 09:07:41,444 semantic_segmentation INFO: Sample: 332, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.28224182]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.40928650]), time: 0.042088985443115234s
+2021-11-02 09:07:43,218 semantic_segmentation INFO: Sample: 333, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.29090881]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.42768860]), time: 0.04177284240722656s
+2021-11-02 09:07:44,959 semantic_segmentation INFO: Sample: 334, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.29821014]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.44257355]), time: 0.04235219955444336s
+2021-11-02 09:07:46,640 semantic_segmentation INFO: Sample: 335, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.30044556]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.58708954]), time: 0.041708946228027344s
+2021-11-02 09:07:48,395 semantic_segmentation INFO: Sample: 336, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.30137634]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.58863068]), time: 0.04184389114379883s
+2021-11-02 09:07:50,135 semantic_segmentation INFO: Sample: 337, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.29093933]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.60426331]), time: 0.042028188705444336s
+2021-11-02 09:07:51,891 semantic_segmentation INFO: Sample: 338, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.29634094]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.62109375]), time: 0.04161715507507324s
+2021-11-02 09:07:53,646 semantic_segmentation INFO: Sample: 339, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.30803680]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.65529633]), time: 0.04175090789794922s
+2021-11-02 09:07:55,408 semantic_segmentation INFO: Sample: 340, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.31163788]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.62428284]), time: 0.04170989990234375s
+2021-11-02 09:07:57,170 semantic_segmentation INFO: Sample: 341, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.31930542]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.60886383]), time: 0.04270124435424805s
+2021-11-02 09:07:58,887 semantic_segmentation INFO: Sample: 342, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.32341766]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.68267822]), time: 0.04180097579956055s
+2021-11-02 09:08:00,650 semantic_segmentation INFO: Sample: 343, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.32897949]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.69598389]), time: 0.041774749755859375s
+2021-11-02 09:08:02,389 semantic_segmentation INFO: Sample: 344, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.33783722]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.73831940]), time: 0.04161572456359863s
+2021-11-02 09:08:04,115 semantic_segmentation INFO: Sample: 345, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.34480286]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.73989105]), time: 0.041747331619262695s
+2021-11-02 09:08:05,902 semantic_segmentation INFO: Sample: 346, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.35294342]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.74197388]), time: 0.041989803314208984s
+2021-11-02 09:08:07,587 semantic_segmentation INFO: Sample: 347, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.35660553]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.74714661]), time: 0.041730642318725586s
+2021-11-02 09:08:09,348 semantic_segmentation INFO: Sample: 348, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.36289978]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.76986694]), time: 0.04188823699951172s
+2021-11-02 09:08:11,142 semantic_segmentation INFO: Sample: 349, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.36660767]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.78572083]), time: 0.04168963432312012s
+2021-11-02 09:08:12,879 semantic_segmentation INFO: Sample: 350, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.37083435]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.78946686]), time: 0.041697025299072266s
+2021-11-02 09:08:14,583 semantic_segmentation INFO: Sample: 351, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.38169098]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.79528809]), time: 0.04197406768798828s
+2021-11-02 09:08:16,365 semantic_segmentation INFO: Sample: 352, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.38597107]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.83139038]), time: 0.041723012924194336s
+2021-11-02 09:08:18,151 semantic_segmentation INFO: Sample: 353, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.39366150]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.83917236]), time: 0.04200315475463867s
+2021-11-02 09:08:19,921 semantic_segmentation INFO: Sample: 354, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.38108826]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.86676788]), time: 0.041652679443359375s
+2021-11-02 09:08:21,617 semantic_segmentation INFO: Sample: 355, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.38899994]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.90209961]), time: 0.04181170463562012s
+2021-11-02 09:08:23,374 semantic_segmentation INFO: Sample: 356, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.39646912]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.89596558]), time: 0.041996002197265625s
+2021-11-02 09:08:25,131 semantic_segmentation INFO: Sample: 357, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.40785217]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.91061401]), time: 0.04172039031982422s
+2021-11-02 09:08:26,964 semantic_segmentation INFO: Sample: 358, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.41240692]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.95371246]), time: 0.04217410087585449s
+2021-11-02 09:08:28,790 semantic_segmentation INFO: Sample: 359, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.42341614]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.97813416]), time: 0.04191851615905762s
+2021-11-02 09:08:30,525 semantic_segmentation INFO: Sample: 360, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.43243408]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [70.99775696]), time: 0.041975975036621094s
+2021-11-02 09:08:32,267 semantic_segmentation INFO: Sample: 361, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.43655396]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.01402283]), time: 0.041704416275024414s
+2021-11-02 09:08:33,970 semantic_segmentation INFO: Sample: 362, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.44404602]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.02552032]), time: 0.04174470901489258s
+2021-11-02 09:08:35,686 semantic_segmentation INFO: Sample: 363, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.45060730]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.02302551]), time: 0.04189705848693848s
+2021-11-02 09:08:37,458 semantic_segmentation INFO: Sample: 364, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.44829559]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.03765869]), time: 0.04186654090881348s
+2021-11-02 09:08:39,215 semantic_segmentation INFO: Sample: 365, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.45223999]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.02709961]), time: 0.04184412956237793s
+2021-11-02 09:08:40,910 semantic_segmentation INFO: Sample: 366, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.46103668]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.01961517]), time: 0.04181694984436035s
+2021-11-02 09:08:42,627 semantic_segmentation INFO: Sample: 367, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.46821594]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.01956940]), time: 0.04184985160827637s
+2021-11-02 09:08:44,360 semantic_segmentation INFO: Sample: 368, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.47758484]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.02978516]), time: 0.04200339317321777s
+2021-11-02 09:08:46,138 semantic_segmentation INFO: Sample: 369, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.48570251]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.10272980]), time: 0.042188405990600586s
+2021-11-02 09:08:47,912 semantic_segmentation INFO: Sample: 370, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.48753357]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.08778381]), time: 0.04193758964538574s
+2021-11-02 09:08:49,684 semantic_segmentation INFO: Sample: 371, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.49143219]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.09397888]), time: 0.04216790199279785s
+2021-11-02 09:08:51,462 semantic_segmentation INFO: Sample: 372, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.49533081]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.08242798]), time: 0.04189157485961914s
+2021-11-02 09:08:53,224 semantic_segmentation INFO: Sample: 373, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.49502563]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.06368256]), time: 0.04187774658203125s
+2021-11-02 09:08:55,005 semantic_segmentation INFO: Sample: 374, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.50403595]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.07884216]), time: 0.0419161319732666s
+2021-11-02 09:08:56,724 semantic_segmentation INFO: Sample: 375, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.51262665]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.07643127]), time: 0.0422060489654541s
+2021-11-02 09:08:58,487 semantic_segmentation INFO: Sample: 376, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.51856995]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.07574463]), time: 0.04165053367614746s
+2021-11-02 09:09:00,174 semantic_segmentation INFO: Sample: 377, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.52965546]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.08290863]), time: 0.04194307327270508s
+2021-11-02 09:09:01,969 semantic_segmentation INFO: Sample: 378, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.53800201]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.08872986]), time: 0.041639089584350586s
+2021-11-02 09:09:03,668 semantic_segmentation INFO: Sample: 379, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.54666138]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.08679962]), time: 0.04180479049682617s
+2021-11-02 09:09:05,429 semantic_segmentation INFO: Sample: 380, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.53565216]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.14372253]), time: 0.041700124740600586s
+2021-11-02 09:09:07,230 semantic_segmentation INFO: Sample: 381, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.54093933]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.16266632]), time: 0.04193377494812012s
+2021-11-02 09:09:09,003 semantic_segmentation INFO: Sample: 382, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.53968048]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.16255188]), time: 0.04197096824645996s
+2021-11-02 09:09:10,800 semantic_segmentation INFO: Sample: 383, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.54162598]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.20269012]), time: 0.04168701171875s
+2021-11-02 09:09:12,574 semantic_segmentation INFO: Sample: 384, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.54402161]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.19463348]), time: 0.04197812080383301s
+2021-11-02 09:09:14,315 semantic_segmentation INFO: Sample: 385, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.54812622]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.20397949]), time: 0.04196310043334961s
+2021-11-02 09:09:16,088 semantic_segmentation INFO: Sample: 386, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.55048370]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.22677612]), time: 0.04165911674499512s
+2021-11-02 09:09:17,892 semantic_segmentation INFO: Sample: 387, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.55558014]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.23281097]), time: 0.04185605049133301s
+2021-11-02 09:09:19,652 semantic_segmentation INFO: Sample: 388, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.56491852]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.23675537]), time: 0.04183173179626465s
+2021-11-02 09:09:21,392 semantic_segmentation INFO: Sample: 389, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.57158661]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.23435974]), time: 0.0416262149810791s
+2021-11-02 09:09:23,118 semantic_segmentation INFO: Sample: 390, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.56922913]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.25741577]), time: 0.04203987121582031s
+2021-11-02 09:09:24,774 semantic_segmentation INFO: Sample: 391, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.58032227]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.24922180]), time: 0.04223823547363281s
+2021-11-02 09:09:26,513 semantic_segmentation INFO: Sample: 392, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.58585358]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.25395203]), time: 0.0417325496673584s
+2021-11-02 09:09:28,211 semantic_segmentation INFO: Sample: 393, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.59423065]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.26007843]), time: 0.04180097579956055s
+2021-11-02 09:09:29,920 semantic_segmentation INFO: Sample: 394, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.59600830]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.25427246]), time: 0.041699886322021484s
+2021-11-02 09:09:31,700 semantic_segmentation INFO: Sample: 395, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.60450745]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.26673889]), time: 0.04204702377319336s
+2021-11-02 09:09:33,459 semantic_segmentation INFO: Sample: 396, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.60950470]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.32407379]), time: 0.0419316291809082s
+2021-11-02 09:09:35,150 semantic_segmentation INFO: Sample: 397, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.61759186]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.35271454]), time: 0.04205489158630371s
+2021-11-02 09:09:36,893 semantic_segmentation INFO: Sample: 398, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.62345123]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.34886169]), time: 0.041915178298950195s
+2021-11-02 09:09:38,635 semantic_segmentation INFO: Sample: 399, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.62666321]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.35453033]), time: 0.041727542877197266s
+2021-11-02 09:09:40,435 semantic_segmentation INFO: Sample: 400, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.63268280]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.37738800]), time: 0.04177427291870117s
+2021-11-02 09:09:42,145 semantic_segmentation INFO: Sample: 401, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.64214325]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.39888763]), time: 0.04153585433959961s
+2021-11-02 09:09:43,923 semantic_segmentation INFO: Sample: 402, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.64997864]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.42917633]), time: 0.04211759567260742s
+2021-11-02 09:09:45,670 semantic_segmentation INFO: Sample: 403, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.65810394]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.51988220]), time: 0.04222226142883301s
+2021-11-02 09:09:47,396 semantic_segmentation INFO: Sample: 404, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.66450500]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.55094910]), time: 0.04193425178527832s
+2021-11-02 09:09:49,136 semantic_segmentation INFO: Sample: 405, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.66606140]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.57073212]), time: 0.041777849197387695s
+2021-11-02 09:09:50,882 semantic_segmentation INFO: Sample: 406, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.66995239]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.56869507]), time: 0.041909217834472656s
+2021-11-02 09:09:52,606 semantic_segmentation INFO: Sample: 407, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.66772461]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.56314087]), time: 0.04166817665100098s
+2021-11-02 09:09:54,383 semantic_segmentation INFO: Sample: 408, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.67424011]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.56031799]), time: 0.041841983795166016s
+2021-11-02 09:09:55,916 semantic_segmentation INFO: Sample: 409, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.67598724]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.57604980]), time: 0.04184699058532715s
+2021-11-02 09:09:57,666 semantic_segmentation INFO: Sample: 410, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.68051147]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.57352448]), time: 0.041890859603881836s
+2021-11-02 09:09:59,446 semantic_segmentation INFO: Sample: 411, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.68576050]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.59160614]), time: 0.04165291786193848s
+2021-11-02 09:10:01,203 semantic_segmentation INFO: Sample: 412, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.69422913]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.59358978]), time: 0.041577816009521484s
+2021-11-02 09:10:02,866 semantic_segmentation INFO: Sample: 413, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.69644928]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.57140350]), time: 0.04169631004333496s
+2021-11-02 09:10:04,579 semantic_segmentation INFO: Sample: 414, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.69807434]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.56153870]), time: 0.0419316291809082s
+2021-11-02 09:10:06,377 semantic_segmentation INFO: Sample: 415, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.69969177]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.60578918]), time: 0.04191017150878906s
+2021-11-02 09:10:08,157 semantic_segmentation INFO: Sample: 416, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.69786072]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.57452393]), time: 0.041808366775512695s
+2021-11-02 09:10:09,901 semantic_segmentation INFO: Sample: 417, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.70341492]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.58530426]), time: 0.042083740234375s
+2021-11-02 09:10:11,628 semantic_segmentation INFO: Sample: 418, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.70666504]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.58359528]), time: 0.04132246971130371s
+2021-11-02 09:10:13,351 semantic_segmentation INFO: Sample: 419, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.70965576]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.56588745]), time: 0.04151272773742676s
+2021-11-02 09:10:15,025 semantic_segmentation INFO: Sample: 420, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.70447540]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.60779572]), time: 0.041735172271728516s
+2021-11-02 09:10:16,769 semantic_segmentation INFO: Sample: 421, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.70881653]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.60954285]), time: 0.04236292839050293s
+2021-11-02 09:10:18,493 semantic_segmentation INFO: Sample: 422, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.71262360]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.60245514]), time: 0.0416872501373291s
+2021-11-02 09:10:20,266 semantic_segmentation INFO: Sample: 423, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.71777344]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.62761688]), time: 0.04161429405212402s
+2021-11-02 09:10:22,072 semantic_segmentation INFO: Sample: 424, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.71625519]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.63491821]), time: 0.04181694984436035s
+2021-11-02 09:10:23,782 semantic_segmentation INFO: Sample: 425, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.71967316]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.63668823]), time: 0.04202628135681152s
+2021-11-02 09:10:25,550 semantic_segmentation INFO: Sample: 426, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.72380066]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.63351440]), time: 0.04172968864440918s
+2021-11-02 09:10:27,293 semantic_segmentation INFO: Sample: 427, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.72671509]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.66077423]), time: 0.043038129806518555s
+2021-11-02 09:10:29,010 semantic_segmentation INFO: Sample: 428, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.73603821]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.66294098]), time: 0.04159879684448242s
+2021-11-02 09:10:30,816 semantic_segmentation INFO: Sample: 429, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.73848724]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.67926025]), time: 0.04176664352416992s
+2021-11-02 09:10:32,527 semantic_segmentation INFO: Sample: 430, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.74343109]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.68067932]), time: 0.04186248779296875s
+2021-11-02 09:10:34,340 semantic_segmentation INFO: Sample: 431, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.74910736]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.68095398]), time: 0.042337894439697266s
+2021-11-02 09:10:36,064 semantic_segmentation INFO: Sample: 432, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.75245667]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.66857910]), time: 0.04208207130432129s
+2021-11-02 09:10:37,799 semantic_segmentation INFO: Sample: 433, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.75567627]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.69198608]), time: 0.04192686080932617s
+2021-11-02 09:10:39,582 semantic_segmentation INFO: Sample: 434, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.75817871]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.69174957]), time: 0.041953086853027344s
+2021-11-02 09:10:41,309 semantic_segmentation INFO: Sample: 435, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.76317596]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.68321991]), time: 0.04175877571105957s
+2021-11-02 09:10:43,056 semantic_segmentation INFO: Sample: 436, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.76863861]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.68255615]), time: 0.04199719429016113s
+2021-11-02 09:10:44,858 semantic_segmentation INFO: Sample: 437, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.77379608]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.69653320]), time: 0.04197239875793457s
+2021-11-02 09:10:46,542 semantic_segmentation INFO: Sample: 438, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.78030396]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.69792938]), time: 0.04204535484313965s
+2021-11-02 09:10:48,360 semantic_segmentation INFO: Sample: 439, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.78648376]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.69482422]), time: 0.04208087921142578s
+2021-11-02 09:10:50,019 semantic_segmentation INFO: Sample: 440, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.79392242]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.69696045]), time: 0.04202389717102051s
+2021-11-02 09:10:51,718 semantic_segmentation INFO: Sample: 441, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.79882050]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.70837402]), time: 0.041779279708862305s
+2021-11-02 09:10:53,484 semantic_segmentation INFO: Sample: 442, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.79038239]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.67894745]), time: 0.04173994064331055s
+2021-11-02 09:10:55,245 semantic_segmentation INFO: Sample: 443, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.79706573]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.69272614]), time: 0.04204726219177246s
+2021-11-02 09:10:57,046 semantic_segmentation INFO: Sample: 444, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.79498291]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.75946808]), time: 0.04182553291320801s
+2021-11-02 09:10:58,812 semantic_segmentation INFO: Sample: 445, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.80191803]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.76519775]), time: 0.041708946228027344s
+2021-11-02 09:11:00,482 semantic_segmentation INFO: Sample: 446, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.80859375]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.76822662]), time: 0.04196763038635254s
+2021-11-02 09:11:02,202 semantic_segmentation INFO: Sample: 447, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.81221771]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.76065063]), time: 0.04175519943237305s
+2021-11-02 09:11:03,865 semantic_segmentation INFO: Sample: 448, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.81804657]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.76645660]), time: 0.04185652732849121s
+2021-11-02 09:11:05,672 semantic_segmentation INFO: Sample: 449, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.81722260]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.76244354]), time: 0.04165291786193848s
+2021-11-02 09:11:07,431 semantic_segmentation INFO: Sample: 450, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.82059479]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.75572968]), time: 0.04176974296569824s
+2021-11-02 09:11:09,196 semantic_segmentation INFO: Sample: 451, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.82906342]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.75768280]), time: 0.04175376892089844s
+2021-11-02 09:11:10,923 semantic_segmentation INFO: Sample: 452, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.83060455]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.77628326]), time: 0.041684627532958984s
+2021-11-02 09:11:12,721 semantic_segmentation INFO: Sample: 453, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.82976532]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.74241638]), time: 0.04208636283874512s
+2021-11-02 09:11:14,467 semantic_segmentation INFO: Sample: 454, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.83717346]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.75117493]), time: 0.041838884353637695s
+2021-11-02 09:11:16,237 semantic_segmentation INFO: Sample: 455, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.83917999]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.73692322]), time: 0.04207563400268555s
+2021-11-02 09:11:18,023 semantic_segmentation INFO: Sample: 456, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.84561920]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.73768616]), time: 0.041806936264038086s
+2021-11-02 09:11:19,755 semantic_segmentation INFO: Sample: 457, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.85313416]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.74583435]), time: 0.04204106330871582s
+2021-11-02 09:11:21,569 semantic_segmentation INFO: Sample: 458, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.85743713]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.76457977]), time: 0.04189348220825195s
+2021-11-02 09:11:23,345 semantic_segmentation INFO: Sample: 459, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.85771942]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.77502441]), time: 0.04200339317321777s
+2021-11-02 09:11:25,106 semantic_segmentation INFO: Sample: 460, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.85923004]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.77046204]), time: 0.042089223861694336s
+2021-11-02 09:11:26,833 semantic_segmentation INFO: Sample: 461, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.86734772]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.77315521]), time: 0.04211616516113281s
+2021-11-02 09:11:28,550 semantic_segmentation INFO: Sample: 462, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.86888885]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.76888275]), time: 0.04223895072937012s
+2021-11-02 09:11:30,280 semantic_segmentation INFO: Sample: 463, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.86958313]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.75858307]), time: 0.04184532165527344s
+2021-11-02 09:11:32,035 semantic_segmentation INFO: Sample: 464, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.87472534]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.75888824]), time: 0.04171037673950195s
+2021-11-02 09:11:33,774 semantic_segmentation INFO: Sample: 465, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.88068390]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.76196289]), time: 0.04190373420715332s
+2021-11-02 09:11:35,535 semantic_segmentation INFO: Sample: 466, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.88386536]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.77903748]), time: 0.041933298110961914s
+2021-11-02 09:11:37,262 semantic_segmentation INFO: Sample: 467, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.88635254]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.77408600]), time: 0.042035579681396484s
+2021-11-02 09:11:38,975 semantic_segmentation INFO: Sample: 468, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.89339447]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.77597046]), time: 0.042266130447387695s
+2021-11-02 09:11:40,714 semantic_segmentation INFO: Sample: 469, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.88710785]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.76052094]), time: 0.041581153869628906s
+2021-11-02 09:11:42,349 semantic_segmentation INFO: Sample: 470, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.88910675]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.77514648]), time: 0.04194903373718262s
+2021-11-02 09:11:44,043 semantic_segmentation INFO: Sample: 471, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.88661194]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.74852753]), time: 0.042153120040893555s
+2021-11-02 09:11:45,824 semantic_segmentation INFO: Sample: 472, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.89183807]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.75899506]), time: 0.04201698303222656s
+2021-11-02 09:11:47,486 semantic_segmentation INFO: Sample: 473, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.89173126]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.77082825]), time: 0.04195284843444824s
+2021-11-02 09:11:49,242 semantic_segmentation INFO: Sample: 474, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.89394379]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.76267242]), time: 0.04186534881591797s
+2021-11-02 09:11:50,767 semantic_segmentation INFO: Sample: 475, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.89953613]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.76198578]), time: 0.04183530807495117s
+2021-11-02 09:11:52,470 semantic_segmentation INFO: Sample: 476, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.90318298]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.78727722]), time: 0.04160046577453613s
+2021-11-02 09:11:54,182 semantic_segmentation INFO: Sample: 477, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.90720367]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.78871918]), time: 0.04190349578857422s
+2021-11-02 09:11:55,924 semantic_segmentation INFO: Sample: 478, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.91386414]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.80136108]), time: 0.041760921478271484s
+2021-11-02 09:11:57,722 semantic_segmentation INFO: Sample: 479, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.91936493]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.83493805]), time: 0.04215526580810547s
+2021-11-02 09:11:59,495 semantic_segmentation INFO: Sample: 480, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.92239380]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.82859039]), time: 0.04182863235473633s
+2021-11-02 09:12:01,208 semantic_segmentation INFO: Sample: 481, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.92802429]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.82655334]), time: 0.04185056686401367s
+2021-11-02 09:12:03,004 semantic_segmentation INFO: Sample: 482, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.92816925]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.82965851]), time: 0.04160118103027344s
+2021-11-02 09:12:04,715 semantic_segmentation INFO: Sample: 483, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.93357086]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.83292389]), time: 0.041778564453125s
+2021-11-02 09:12:06,532 semantic_segmentation INFO: Sample: 484, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.93829346]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.84089661]), time: 0.04173564910888672s
+2021-11-02 09:12:08,263 semantic_segmentation INFO: Sample: 485, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.94196320]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.84217834]), time: 0.04172682762145996s
+2021-11-02 09:12:10,075 semantic_segmentation INFO: Sample: 486, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.94194031]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.83977509]), time: 0.04172229766845703s
+2021-11-02 09:12:11,667 semantic_segmentation INFO: Sample: 487, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.94670868]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.85530853]), time: 0.041849613189697266s
+2021-11-02 09:12:13,376 semantic_segmentation INFO: Sample: 488, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.95088196]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.85643768]), time: 0.0419921875s
+2021-11-02 09:12:15,092 semantic_segmentation INFO: Sample: 489, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.95402527]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.85556030]), time: 0.04201340675354004s
+2021-11-02 09:12:16,881 semantic_segmentation INFO: Sample: 490, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.95977783]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.85095215]), time: 0.042012929916381836s
+2021-11-02 09:12:18,671 semantic_segmentation INFO: Sample: 491, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.96238708]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.84750366]), time: 0.04177594184875488s
+2021-11-02 09:12:20,442 semantic_segmentation INFO: Sample: 492, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.96855164]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.85212708]), time: 0.041803836822509766s
+2021-11-02 09:12:22,211 semantic_segmentation INFO: Sample: 493, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.96864319]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.85790253]), time: 0.04298734664916992s
+2021-11-02 09:12:23,978 semantic_segmentation INFO: Sample: 494, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.97257996]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.86079407]), time: 0.04169201850891113s
+2021-11-02 09:12:25,781 semantic_segmentation INFO: Sample: 495, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.97544098]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.86099243]), time: 0.04215431213378906s
+2021-11-02 09:12:27,496 semantic_segmentation INFO: Sample: 496, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.97774506]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.86226654]), time: 0.04220080375671387s
+2021-11-02 09:12:29,302 semantic_segmentation INFO: Sample: 497, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.98211670]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.86469269]), time: 0.04162406921386719s
+2021-11-02 09:12:31,061 semantic_segmentation INFO: Sample: 498, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.98492432]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.86544037]), time: 0.04193234443664551s
+2021-11-02 09:12:32,791 semantic_segmentation INFO: Sample: 499, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.99224854]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.86802673]), time: 0.04185295104980469s
+2021-11-02 09:12:34,505 semantic_segmentation INFO: Sample: 500, validation pixAcc: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [94.99509430]), mIoU: Tensor(shape=[1], dtype=float32, place=CUDAPlace(0), stop_gradient=True,
+       [71.86811829]), time: 0.04233050346374512s
+2021-11-02 09:12:36,031 semantic_segmentation INFO: Evaluate: Average mIoU: 0.701746612727642, Average pixAcc: 0.9444302089214325, Average time: 0.041932881355285646
